@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Collins Ikiara
+# Hi 👋, I'm Collins Ikiara.
 
 ### Backend Developer • Python • Django • REST APIs
 
