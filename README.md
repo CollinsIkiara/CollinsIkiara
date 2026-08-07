@@ -1,20 +1,32 @@
 <h1 align="center">Hi 👋, I'm Collins Ikiara</h1>
 
 <h3 align="center">
-Backend Developer • Django • Python • REST APIs
+Backend Developer | Python • Django • REST APIs
 </h3>
 
 <p align="center">
+Backend developer passionate about building scalable APIs, exploring system design, and continuously learning modern technologies and frameworks.
+</p>
+
+<p align="center">
   <a href="https://github.com/CollinsIkiara">
-    <img src="https://komarev.com/ghpvc/?username=CollinsIkiara&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=CollinsIkiara&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   </a>
 
   <a href="https://github.com/CollinsIkiara?tab=followers">
-    <img src="https://img.shields.io/github/followers/CollinsIkiara?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/CollinsIkiara?logo=github&style=for-the-badge" alt="GitHub Followers"/>
   </a>
 
-  <a href="https://github.com/CollinsIkiara">
-    <img src="https://img.shields.io/github/stars/CollinsIkiara?affiliations=OWNER&style=for-the-badge" />
+  <a href="mailto:ikiaracollins@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/collins-ikiara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://collinsikiara-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
 
@@ -22,65 +34,100 @@ Backend Developer • Django • Python • REST APIs
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Vue, Django, Docker & Kubernetes**
-- 🚀 Building scalable backend applications with **Python & Django**
-- 📂 Portfolio: **https://collinsikiara-portfolio.vercel.app/**
-- 📄 Resume: **https://collinsikiara-portfolio.vercel.app/resume.pdf**
+- 🔭 Backend Developer specializing in **Python** and **Django**
+- 🏗️ Passionate about **System Design** and scalable software architecture
+- 🌱 Currently learning **Vue.js**, **Docker**, **Kubernetes**, and modern development frameworks
+- 💡 I enjoy designing clean APIs and solving backend engineering challenges
+- ⚡ Former **Electrical Engineer** turned **Software Engineer**
 - 📫 Reach me at **ikiaracollins@gmail.com**
-- ⚡ Fun fact: **I worked as an Electrical Engineer before transitioning into Software Engineering.**
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/collins-ikiara/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres,mysql,sqlite,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,figma" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 **Portfolio** | My personal portfolio website showcasing my work, technical skills, and experience. |
+| 🛒 **PyShop** | A Django e-commerce application for browsing products and managing purchases. |
+| 🔐 **Node.js REST API Security** | Explores authentication and authorization using JWTs to build secure REST APIs. |
+| ⚡ **Building RESTful APIs with Node.js & Express** | A collection of REST API concepts and implementations built with Express.js. |
+| 🌽 **Climate Change Impact on Maize Yield (Omdena)** | Collaborative machine learning project investigating the effects of climate change on maize production in Kenya using time-series analysis. |
+| 📊 **World Layoffs Analysis** | Data analysis project exploring global layoff trends between 2020–2023 using SQL and Python. |
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,docker,kubernetes,linux,git,postgres,mysql,sqlite,js,react,vue,tailwind,bootstrap,figma,postman" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=CollinsIkiara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CollinsIkiara&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsIkiara&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+## 🌱 Currently Learning
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CollinsIkiara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsIkiara&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=CollinsIkiara&theme=tokyonight&hide_border=true" />
-</p>
+- 🏛️ System Design
+- ⚙️ Modern Backend Development
+- 🧩 Software Architecture
+- 🎨 Vue.js
+- 🐳 Docker & Kubernetes
 
 ---
 
-## 🚀 Currently Learning
+## 🤝 Let's Connect
 
 <p align="center">
+  <a href="mailto:ikiaracollins@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge)
+  <a href="https://www.linkedin.com/in/collins-ikiara/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-![Django](https://img.shields.io/badge/Django-Intermediate-success?style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge)
-
-![Vue](https://img.shields.io/badge/Vue-Learning-42b883?style=for-the-badge)
-
+  <a href="https://collinsikiara-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Thanks for stopping by! Feel free to connect or check out my projects.</i> 👋
+<i>"Building software, continuously learning, and enjoying the journey."</i> 🚀
 </p>
