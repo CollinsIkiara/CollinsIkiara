@@ -103,10 +103,9 @@ class CollinsIkiara:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://badgen.net/badge/icon/slack?icon=slack&label" alt="Slack"/>
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
