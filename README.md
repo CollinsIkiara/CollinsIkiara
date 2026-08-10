@@ -14,10 +14,6 @@
 
 <p align="center">
 
-<a href="https://github.com/CollinsIkiara">
-  <img src="https://komarev.com/ghpvc/?username=CollinsIkiara&style=for-the-badge&color=blue"/>
-</a>
-
 <a href="https://github.com/CollinsIkiara?tab=followers">
   <img src="https://img.shields.io/github/followers/CollinsIkiara?style=for-the-badge&logo=github"/>
 </a>
