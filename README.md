@@ -80,25 +80,30 @@ class CollinsIkiara:
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript"/>
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mysql,sqlite"/>
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue,react"/>
+  <img src="https://skillicons.dev/icons?i=vue,react"/>
 </p>
 
 ### Dev Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,slack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
 </p>
 
 ---
