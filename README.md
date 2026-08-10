@@ -96,13 +96,13 @@ class CollinsIkiara:
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=vue,react"/>
 </p>
 
 ### Dev Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,postman,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,linux,postman,vscode"/>
 </p>
 
 ---
@@ -164,7 +164,7 @@ class CollinsIkiara:
 
 ### 💬 Favorite Quote
 
-> *"Code is read far more often than it is written."* — Guido van Rossum
+> *“There is no place like 127.0.0.1.”* — Anonymous
 
 ---
 
