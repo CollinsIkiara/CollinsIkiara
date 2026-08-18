@@ -128,7 +128,6 @@ class CollinsIkiara:
 - 🧩 Software Architecture
 - 🎨 Vue.js
 - 🐳 Docker
-- ☸️ Kubernetes
 
 ---
 
