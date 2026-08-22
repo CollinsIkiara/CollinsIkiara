@@ -67,11 +67,11 @@ class CollinsIkiara:
 
 # 🎯 Current Focus
 
-- 🔨 Building scalable backend applications
-- 🏛️ Studying System Design and Software Architecture
-- ⚙️ Writing clean, maintainable APIs
-- 🌱 Learning modern frameworks and technologies
-- 🤝 Contributing to collaborative software projects
+* 🔨 Building scalable backend applications
+* 🏛️ Studying System Design and Software Architecture
+* ⚙️ Writing clean, maintainable APIs
+* 🌱 Learning modern frameworks and technologies
+* 🤝 Contributing to collaborative software projects
 
 ---
 
@@ -86,7 +86,7 @@ class CollinsIkiara:
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=django,nodejs,nestjs,express,postgres,mysql,sqlite"/>
 </p>
 
 ### Frontend
@@ -106,6 +106,7 @@ class CollinsIkiara:
   <img src="https://badgen.net/badge/icon/slack?icon=slack&label" alt="Slack"/>
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -124,19 +125,19 @@ class CollinsIkiara:
 
 # 📚 Currently Learning
 
-- 🏛️ System Design
-- 🧩 Software Architecture
-- 🎨 Vue.js
-- 🐳 Docker
+* 🏛️ System Design
+* ⚡ Nest.js
+* 🎨 Vue.js
+* 🐳 Docker
 
 ---
 
 # ☕ Beyond Coding
 
-- ⚡ Former Electrical Engineer
-- 📖 Enjoy learning Software Architecture & System Design
-- 🌱 Always exploring modern frameworks and technologies
-- 🤝 Believe that the best software is built collaboratively
+* ⚡ Former Electrical Engineer
+* 📖 Enjoy learning Software Architecture & System Design
+* 🌱 Always exploring modern frameworks and technologies
+* 🤝 Believe that the best software is built collaboratively
 
 ---
 
