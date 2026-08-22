@@ -56,7 +56,7 @@ class CollinsIkiara:
     currently_learning = [
         "Vue.js",
         "Docker",
-        "Kubernetes",
+        "Nest.js",
         "System Design"
     ]
 
