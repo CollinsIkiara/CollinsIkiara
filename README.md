@@ -55,6 +55,7 @@ class CollinsIkiara:
 
     currently_learning = [
         "Vue.js",
+        "Nuxt.js",
         "Docker",
         "Nest.js",
         "System Design"
@@ -92,7 +93,7 @@ class CollinsIkiara:
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react"/>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react"/>
 </p>
 
 ### Dev Tools
@@ -128,6 +129,7 @@ class CollinsIkiara:
 * 🏛️ System Design
 * ⚡ Nest.js
 * 🎨 Vue.js
+* 🖼️ Nuxt.js
 * 🐳 Docker
 
 ---
