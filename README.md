@@ -81,7 +81,7 @@ class CollinsIkiara:
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
 ### Backend
@@ -99,7 +99,7 @@ class CollinsIkiara:
 ### Dev Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode"/>
 </p>
 
 <p align="center">
@@ -136,10 +136,10 @@ class CollinsIkiara:
 
 # ☕ Beyond Coding
 
-* ⚡ Former Electrical Engineer
-* 📖 Enjoy learning Software Architecture & System Design
+* ⚽ I play football regularly
+* 📚 I enjoy educating myself through philosophical books and Scripture
+* 🎥 I unwind by watching tons of YouTube documentaries
 * 🌱 Always exploring modern frameworks and technologies
-* 🤝 Believe that the best software is built collaboratively
 
 ---
 
