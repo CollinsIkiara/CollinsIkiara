@@ -43,23 +43,7 @@ class CollinsIkiara:
 
     role = "Backend Developer"
 
-    location = "Kenya 🇰🇪"
-
-    interests = [
-        "Backend Engineering",
-        "REST APIs",
-        "System Design",
-        "Software Architecture",
-        "Modern Frameworks"
-    ]
-
-    currently_learning = [
-        "Vue.js",
-        "Nuxt.js",
-        "Docker",
-        "Nest.js",
-        "System Design"
-    ]
+    location = "Nairobi, Kenya 🇰🇪"
 
     fun_fact = "Former Electrical Engineer ⚡"
 ```
@@ -136,9 +120,9 @@ class CollinsIkiara:
 
 # ☕ Beyond Coding
 
-* ⚽ I play football regularly
-* 📚 I enjoy educating myself through philosophical books and Scripture
-* 🎥 I unwind by watching tons of YouTube documentaries
+* ⚽ Play football regularly
+* 📚 Educating myself through philosophical books and Scripture
+* 🎥 Unwind by watching tons of YouTube documentaries
 * 🌱 Always exploring modern frameworks and technologies
 
 ---
