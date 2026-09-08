@@ -94,17 +94,31 @@ class CollinsIkiara:
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<a href="https://git.io/streak-stats">
+  <img
+    height="165"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=CollinsIkiara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF"
+    alt="GitHub stats"
+  />
 
-<img src="https://streak-stats.demolab.com?user=CollinsIkiara&theme=tokyonight&hide_border=true&border_radius=12&exclude_days=Sun,Sat"/>
+  <img
+    height="165"
+    src="./profile/streak.svg"
+    alt="GitHub streak stats"
+  />
 
-</a>
+  <br/>
 
-</p>
+  <img
+    width="60%"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CollinsIkiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF"
+    alt="Top languages"
+  />
+
+</div>
 
 ---
 
