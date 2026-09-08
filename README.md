@@ -1,36 +1,10 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:58A6FF&height=180&section=header&text=Hi%20there%2C%20I'm%20Collins!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=%E2%9C%A8%20welcome%20to%20my%20corner%20of%20code%20%E2%9C%A8&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+</h1>
+
 <div align="center">
-
-# Hi 👋, I'm Collins Ikiara
-
-### Backend Developer • Python • Django • REST APIs
-
-*Building scalable backend systems, exploring system design, and continuously learning modern technologies.*
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+Developer;REST+API+Enthusiast;System+Design+Learner;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/CollinsIkiara?tab=followers">
-  <img src="https://img.shields.io/github/followers/CollinsIkiara?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://wakatime.com/@48a84206-944a-4f37-8f0c-3b68cff8ca89">
-  <img src="https://wakatime.com/badge/user/48a84206-944a-4f37-8f0c-3b68cff8ca89.svg"/>
-</a>
-
-<a href="https://collinsikiara-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:ikiaracollins@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%92%BB+Backend+Developer;%F0%9F%90%8D+Python+%7C+Django+Developer;%E2%9A%A1+REST+API+Enthusiast;%F0%9F%8F%9B%EF%B8%8F+System+Design+Learner;%F0%9F%8C%B1+Always+Learning+Something+New" alt="Typing SVG" />
+</div>
 
 </div>
 
@@ -40,11 +14,8 @@
 
 ```python
 class CollinsIkiara:
-
     role = "Backend Developer"
-
     location = "Nairobi, Kenya 🇰🇪"
-
     fun_fact = "Former Electrical Engineer ⚡"
 ```
 
@@ -167,8 +138,8 @@ class CollinsIkiara:
 
 > *“There is no place like 127.0.0.1.”* — Anonymous
 
----
-
-⭐️ Thanks for visiting my profile!
-
 </div>
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:161B22&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+</h1>
