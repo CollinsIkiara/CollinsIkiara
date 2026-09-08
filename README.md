@@ -114,7 +114,7 @@ class CollinsIkiara:
 
   <img
     width="60%"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CollinsIkiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CollinsIkiara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&hide=jupyter%20notebook"
     alt="Top languages"
   />
 
